@@ -83,6 +83,7 @@ _Apps that showcase the power of the Frappe Framework_
 - [Mon School](https://github.com/fossunited/mon_school) - Frappe App for Mon School based on Frappe LMS.
 - [Non Profit](https://github.com/frappe/non_profit) - Non Profit module for Frappe/ERPNext.
 - [Payments](https://github.com/frappe/payments) - A payments app for frappe.
+- [PDC Management](https://github.com/vinaymishraofficial/pdc_management) - Post-dated and current cheque management for ERPNext: receive, issue, deposit, clear, bounce, return and replace cheques, with the correct journal entry posted at every step. Includes bounce handling, multi-currency, a daily digest and cheque maturity/bounce reports. Frappe v15/v16, MIT licensed.
 - [PropMS](https://github.com/aakvatech/PropMS) - Property Management Solution Powered on ERPNext by Aakvatech.
 - [Restaurant](https://github.com/quantumbitcore/erpnext-restaurant) - Restaurant App for ERPNext.
 - [School](https://github.com/frappe/lms) - The Learning Management System (LMS) that powers [mon.school](https://mon.school) & [frappe.school](https://frappe.school).
